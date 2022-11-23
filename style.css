@@ -1,0 +1,14 @@
+img {
+    height: auto;
+    width: 500px;
+}
+
+h1 {
+    font-family: "Courier New", monospace;
+    background-color: lightsalmon;
+    color: whitesmoke;
+}
+
+h3 {
+    color: salmon;
+}
