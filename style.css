@@ -7,8 +7,20 @@ h1 {
     font-family: "Courier New", monospace;
     background-color: lightsalmon;
     color: whitesmoke;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 h3 {
     color: salmon;
+}
+
+a {
+    text-decoration: none;
+}
+
+#recipe-list {
+    list-style-type:none;
 }
